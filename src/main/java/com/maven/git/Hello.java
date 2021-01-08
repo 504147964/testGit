@@ -3,9 +3,10 @@ package com.maven.git;
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("HelloGit");
-		System.out.println("保存");
-		System.out.println("分支");
-		System.out.println("主干添加");
-		System.out.println("分支添加");
+		System.out.println("淇濆瓨");
+		System.out.println("鍒嗘敮");
+		System.out.println("涓诲共娣诲姞");
+		System.out.println("鍒嗘敮娣诲姞");
+		System.out.println("鍦ㄧ嚎鏇存柊");
 	}
 }
